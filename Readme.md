@@ -3,5 +3,5 @@
 ![sodier](http://goonba.xyz/?endDate=20211218)<br/>
 
 ### Skills
-language : Javascript, Python, Typescript  
+language : Javascript, Python
 frameworks : React, React Native
